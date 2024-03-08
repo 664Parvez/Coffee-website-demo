@@ -488,13 +488,13 @@ nav .responsive_menu ul li a .sign-in-text {
   height: auto;
   vertical-align: middle;
   -o-object-fit: cover;
-     object-fit: cover;
+  object-fit: cover;
   border-radius: 10px;
   margin: 10px 0;
 }
 
 .footer {
-  background-image: url("/public/image/footerbg.png");
+  background-image: url("../public/image/footerbg.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
